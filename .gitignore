@@ -1,2 +1,4 @@
 .vscode/
 .ipynb_checkpoints/
+keras_model/
+enriched_dtevent.csv
