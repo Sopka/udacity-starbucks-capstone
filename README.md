@@ -13,6 +13,8 @@ The goal is to derive a predictive model from the data to suggest if
 there is a high chance that a customer will make a purchase as a
 response to a discount or 'by one get one free' offer.
 
+For more information read the corresponding blog post on medium: <https://medium.com/@sopka/prediction-model-for-starbucks-bogo-and-discount-offers-e63383fd6469>
+
 ## File Structure
 
 `├── data_aggregation.ipynb` jupyter notebook for the data analysis and preparation
